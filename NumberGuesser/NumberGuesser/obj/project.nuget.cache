@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NwwMbs/9++IqKBiBqSTXlVyLkCnjHAI/Ur3JuVSvH7N77n05v9XmzG/KnvWjTMRsQBTJ0CymmijOKIRqGKBogQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willi\\OneDrive\\Skrivbord\\C#\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

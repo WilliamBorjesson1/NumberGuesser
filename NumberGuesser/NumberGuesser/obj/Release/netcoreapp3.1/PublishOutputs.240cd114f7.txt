@@ -1,0 +1,5 @@
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\NumberGuesser\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.exe
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\NumberGuesser\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.dll
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\NumberGuesser\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.deps.json
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\NumberGuesser\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.runtimeconfig.json
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\NumberGuesser\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.pdb
